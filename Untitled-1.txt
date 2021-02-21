@@ -1,0 +1,11 @@
+Routes:
+Publication POST
+Publication GET ALL
+Publication Find one
+Publication 651
+
+
+USers:
+Login
+Register
+FInd one
